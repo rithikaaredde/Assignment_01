@@ -1,3 +1,7 @@
+// Name: Rithikaa Redde
+// PRN: 23070126101
+// Batch: AIML - B1
+
 import java.util.*;
 
 class Calculator {
